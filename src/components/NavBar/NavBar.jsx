@@ -7,7 +7,7 @@ const NavBar = () => {
            <nav className="navbar navbar-expand-lg  bg-info border-bottom border-body">
            <div className="container-fluid">
            
-                      <a className="navbar-brand" href="#">Tienda</a>
+                      <a className="navbar-brand" href="#">Tienda Mariolo</a>
            
                       <button className="navbar-toggler " type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                       <span className="navbar-toggler-icon"></span>

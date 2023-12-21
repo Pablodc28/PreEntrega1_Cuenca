@@ -7,7 +7,7 @@ const App = () => {
       
       <NavBar />
       
-      <ItemListContainer greeting="Hola Bienvenido, gracias por visita Tienda de Mariolo !!" />
+      <ItemListContainer greeting="Hola Bienvenido, gracias por visita la Tienda de Mariolo !!" />
 
     </div>
   )
